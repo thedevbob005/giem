@@ -21918,7 +21918,7 @@ filters
 
 .service-single.with-icon.layout2 {
 	overflow: auto;
-	padding: 55px;
+	padding: 50px 20px;
 	position: static;
 	transition: none;
 }
