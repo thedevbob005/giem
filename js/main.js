@@ -1721,9 +1721,9 @@
             {latLng: [46.390630,-112.309402], name: "Helena"},
         ];
 
-        if ( document.getElementById('map-vector11') ) {
+        if ( document.getElementById('map-vector') ) {
             $('#map-vector').vectorMap({
-                map: 'us_lcc',
+                map: 'in_merc',
                 backgroundColor: 'transparent',
                 zoomOnScroll: false,
                 regionStyle: {
